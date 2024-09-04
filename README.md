@@ -15,20 +15,21 @@ Welcome to the course!
 ## Schedule
 
 
-- **[Lecture 1](#lecture-1)**: Sep 5, Room 46a, Introduction to Python
-- **[Lecture 2](#lecture-2)**: Sep 12, Room E4 (SDV), Linear Algebra + Numeric computing (numpy)
-- **[Lecture 3](#lecture-3)**: Sep 12, Room E4, Mini-project / Scientific computing (scipy)
-- **[Lecture 4](#lecture-4)**: Sep 26, Room 30, Signal Processing / Data visualization (seaborn)
-- **[Lecture 5](#lecture-5)**: Oct 3, Room 48, Presentation of the projects
-- **[Lecture 6](#lecture-6)**: Oct 17, Room 48, Correction of mini-project
+- **[Lecture 1](#lecture-1)**: Sep 5, Room 46a :  Introduction to Python
+- **[Lecture 2](#lecture-2)**: Sep 12, Room E4 (SDV): Linear Algebra + Numeric computing (numpy)
+- **[Lecture 3](#lecture-3)**: Sep 19, Room 4:  Scientific computing (scipy)  and Data visualization (seaborn)
+- **[Lecture 4](#lecture-4)**: Sep 26, Room 3: Signal Processing
+- **[Lecture 5](#lecture-5)**: Oct 3, Room 48:   Presentation of the projects
+- **[Lecture 6](#lecture-6)**: Oct 17, Room 30:  Correction of mini-project
 ---
-- **Working session 1**: Oct 30 (am), Room 48
-- **Working session 2**: Oct 30 (pm), Room 48
-- **Working session 3**: Oct 31 (am), Room 48
-- **Working session 4**: Oct 31 (pm), Room 48
+- **Working session 1**: Oct 30 (am), Room 60 (Computer Lab)
+- **Working session 2**: Oct 30 (pm), Room 60 (Computer Lab)
+- **Working session 3**: Oct 31 (am), Room 60 (Computer Lab)
+- **Working session 4**: Oct 31 (pm), Room 60 (Computer Lab)
 ---
-- **Defense**: Nov 19, Room 48
+- **Defense**: Nov 19, Room 30: Detailed planning will be posted few days ahead.
 
+Most location for the rooms are reported [here](https://moodle.u-bordeaux.fr/pluginfile.php/321857/mod_folder/content/0/Rooms-Master-Neurosciences%20Campus%20Carreire%202024.pdf?forcedownload=1) 
 
 ## Lecture 1
 
