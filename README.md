@@ -138,7 +138,8 @@ working on project
 
 ### Homework
 
-starting on report and presentation
+starting on report (code and pdf , deadline 14-Nov-24) 
+and work on presentation.
 
 ## Defense day (19-Nov-24)
 
