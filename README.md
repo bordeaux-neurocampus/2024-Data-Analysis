@@ -14,7 +14,7 @@ Welcome to the course!
 
 # Schedule
 
-## Lecture 1 (05-Sep-24)
+## Lecture 1 (05-Sep-24, Romm 46a)
 
 ### Content
 
@@ -28,7 +28,7 @@ Welcome to the course!
 - Finish [installation](lessons/programming/L01-installation.md) & [introduction](lessons/programming/L01-introduction-to-python.md)
 - Read Scipy Lecture notes chapters on [basic types](http://scipy-lectures.org/intro/language/basic_types.html), [control flow](http://scipy-lectures.org/intro/language/control_flow.html) and [functions](http://scipy-lectures.org/intro/language/functions.html)
 
-## Lecture 2 (12-Sep-24)
+## Lecture 2 (12-Sep-24, Room E4 SDV)
 
 ### Content
 
@@ -51,7 +51,8 @@ We highly recommend you start your study on linear algebra by watching the
 videos by 3Blue1Brown on YouTube. Emphasis should be placed on chapters 1-11, as these
 chapters cover all the material you will need to complete this course. Feel free
 to watch the other videos though, as they are highly interesting!
-## Lecture 3 (19-Sep-24)
+
+## Lecture 3 (19-Sep-24, Room 48)
 
 ### Content
 
@@ -75,7 +76,7 @@ https://colab.research.google.com/drive/1jnkeeQPHpbTZBp0TUmoM012Jr6etTOVW#scroll
 - Exercice Visualization
 - Start working on mini-project 1
 
-## Lecture 4 (26-Sep-24)
+## Lecture 4 (26-Sep-24, Room 30)
 
 ### Content
 
@@ -92,7 +93,7 @@ https://colab.research.google.com/drive/1jnkeeQPHpbTZBp0TUmoM012Jr6etTOVW#scroll
 - Keep working on mini-project 1
 
 
-## Lecture 5 (03-Oct-24)
+## Lecture 5 (03-Oct-24, Room48)
 
 ### Content
 
