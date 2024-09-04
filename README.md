@@ -62,10 +62,10 @@ Most location for the rooms are reported [here](https://moodle.u-bordeaux.fr/plu
 
 ### Homework
 
-Finish Exercices in Numpy.
-Start your study on linear algebra by watching the [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) videos by 3Blue1Brown on YouTube. 
-Emphasis should be placed on chapters 1-11, as these chapters cover all the material you will need to complete this course. 
-Feel free to watch the other videos though, as they are highly interesting!
+- Finish Exercices in Numpy.
+- Start your study on linear algebra by watching the [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) videos by 3Blue1Brown on YouTube. 
+- Emphasis should be placed on chapters 1 to 11, as these chapters cover all the material you will need to complete this course. 
+- Feel free to watch the other videos though, as they are highly interesting!
 
 ## Lecture 3
 
