@@ -27,7 +27,7 @@ Welcome to the course!
 - **Working session 3**: Oct 31 (am), Room 48
 - **Working session 4**: Oct 31 (pm), Room 48
 ---
-- **Defenses**: Nov 19, Room 48
+- **Defense**: Nov 19, Room 48
 
 
 ## Lecture 1 (September 5, 2024, Room 46a)
