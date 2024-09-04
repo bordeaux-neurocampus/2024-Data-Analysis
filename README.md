@@ -97,11 +97,11 @@ https://colab.research.google.com/drive/1jnkeeQPHpbTZBp0TUmoM012Jr6etTOVW#scroll
 
 #### CM
 - Solution to Linear Algebra Exercises Set 
+- Introduction to [signal processing](lessons/programming/fft.ipynb)
 
 #### TD
 
-- Introduction to signal processing
-- Introduction to spectral analysis
+- Spectral analysis
 
 
 ### Homework
