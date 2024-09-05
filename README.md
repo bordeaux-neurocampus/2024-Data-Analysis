@@ -38,7 +38,7 @@ Most location for the rooms are reported [here](https://moodle.u-bordeaux.fr/plu
 - General Introduction
 - [Installation](lessons/programming/L01-installation.md) setup
 #### TD
-- [Introduction](lessons/programming/L01-introduction-to-python.md) to Python
+- [Introduction](lessons/programming/L01-introduction.md) to Python
 
 ### Homework
 
