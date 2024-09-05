@@ -16,11 +16,11 @@ Welcome to the course!
 
 
 - **[Lecture 1](#lecture-1)**: Sep 5, Room 46a :  Introduction to Python
-- **[Lecture 2](#lecture-2)**: Sep 12, Room E4 (SDV): Linear Algebra + Numeric computing (numpy)
-- **[Lecture 3](#lecture-3)**: Sep 19, Room 4:  Scientific computing (scipy)  and Data visualization (seaborn)
-- **[Lecture 4](#lecture-4)**: Sep 26, Room 3: Signal Processing
+- **[Lecture 2](#lecture-2)**: Sep 12, Room E4 (SDV, Batiement Pharmacie): Linear Algebra + Numeric computing (numpy)
+- **[Lecture 3](#lecture-3)**: Sep 19, Room 48:  Scientific computing (scipy)  and Data visualization (seaborn)
+- **[Lecture 4](#lecture-4)**: Sep 26, Room 30: Signal Processing
 - **[Lecture 5](#lecture-5)**: Oct 3, Room 48:   Presentation of the projects
-- **[Lecture 6](#lecture-6)**: Oct 17, Room 30:  Correction of mini-project
+- **[Lecture 6](#lecture-6)**: Oct 17, Room 40 (Behind the Library):  Correction of mini-project
 ---
 - **Working session 1**: Oct 30 (am), Room 60 (Computer Lab)
 - **Working session 2**: Oct 30 (pm), Room 60 (Computer Lab)
