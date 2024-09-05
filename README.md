@@ -75,8 +75,6 @@ Most location for the rooms are reported [here](https://moodle.u-bordeaux.fr/plu
 
 - Linear Algebra + 1rs exercices
 
-https://colab.research.google.com/drive/1jnkeeQPHpbTZBp0TUmoM012Jr6etTOVW#scrollTo=AInorI6xaKsa
-
 
 #### TD
 
