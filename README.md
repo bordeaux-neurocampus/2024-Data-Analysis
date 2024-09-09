@@ -73,7 +73,7 @@ Most location for the rooms are reported [here](https://moodle.u-bordeaux.fr/plu
 
 #### CM
 
-- Linear Algebra + 1rs exercices
+- Linear Equations + 1rs Algebra exercices
 
 
 #### TD
