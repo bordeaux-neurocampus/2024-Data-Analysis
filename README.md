@@ -51,21 +51,22 @@ Most location for the rooms are reported [here](https://moodle.u-bordeaux.fr/plu
 
 #### CM
 
-- Linear Algebra
-- Vectors and matrices
+- [Linear Algebra](lessons/programming/L02-linear-algebra_slides.pdf): Vectors and matrices
 
 #### TD
 
-- Introduction to numerical computing (numpy)
+- [Introduction to numerical computing (numpy)](lessons/programming/L02-NumPy.ipynb)
 
 
 
 ### Homework
 
-- Finish Exercices in Numpy.
-- Start your study on linear algebra by watching the [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) videos by 3Blue1Brown on YouTube. 
-- Emphasis should be placed on chapters 1 to 11, as these chapters cover all the material you will need to complete this course. 
-- Feel free to watch the other videos though, as they are highly interesting!
+- Algebra [exercises](lessons/programming/L02-linear-algebra_slides.pdf): 3, 5, 7 and 9 on paper (10 & 11 optional)
+- Numpy practice: familiarize yourself with the numpy functions in the lesson + use numpy to solve exercices 1, 6 and 8.
+
+- Continue your study on linear algebra by watching the [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) videos by 3Blue1Brown on YouTube. 
+    - Emphasis should be placed on chapters 1 to 11, as these chapters cover all the material you will need to complete this course. 
+    - Feel free to watch the other videos though, as they are highly interesting!
 
 ## Lecture 3
 
@@ -73,18 +74,17 @@ Most location for the rooms are reported [here](https://moodle.u-bordeaux.fr/plu
 
 #### CM
 
-- Linear Equations + 1rs Algebra exercices
+- Correction of Linear Algebra exercices
 
 
 #### TD
 
 - Introduction to scientific computing (scipy)
-- Introduction to data visualization 
+- Introduction to data visualization
 
 - Presentation of the mini-project 1
 
 ### Homework
-- Math training with Linear Algebra Exercises Set 
 - Watch video on [Fourier series](https://www.youtube.com/watch?v=7ssUImv8e4w) 
 - Exercice Visualization
 - Start working on mini-project 1
@@ -94,7 +94,6 @@ Most location for the rooms are reported [here](https://moodle.u-bordeaux.fr/plu
 ### Content
 
 #### CM
-- Solution to Linear Algebra Exercises Set 
 - Introduction to [signal processing](lessons/programming/fft.ipynb)
 
 #### TD
