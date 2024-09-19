@@ -82,7 +82,7 @@ Most location for the rooms are reported [here](https://moodle.u-bordeaux.fr/plu
 - Introduction to scientific computing (scipy)
 - Introduction to data visualization
 
-- Presentation of the [mini-project 1](project/project-birdsong-2024-checkpoint.ipynb)
+- Presentation of the [mini-project 1](projects/project-birdsong-2024.ipynb)
 
 ### Homework
 - Watch video on [Fourier series](https://www.youtube.com/watch?v=7ssUImv8e4w) 
