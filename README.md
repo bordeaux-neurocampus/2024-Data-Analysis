@@ -124,12 +124,12 @@ Hands-on help with miniproject #1
 ## Lecture 6
 
 ### Content
-Correction Songbird
-Starting kit for projects
+- Correction Songbird
+- Starting kit for group projects
 
 ### Homework
 
-working on project
+- Work on group project
 
 ## Working session 1 (3h 30-Oct-24 am)
 
