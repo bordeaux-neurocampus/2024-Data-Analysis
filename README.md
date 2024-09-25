@@ -94,7 +94,7 @@ Most location for the rooms are reported [here](https://moodle.u-bordeaux.fr/plu
 ### Content
 
 #### CM
-- Introduction to [signal processing](lessons/programming/fft.ipynb)
+- Introduction to [signal processing](lessons/programming/L04-fft.ipynb)
 
 #### TD
 
