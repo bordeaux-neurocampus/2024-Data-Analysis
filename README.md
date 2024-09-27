@@ -102,19 +102,21 @@ Most location for the rooms are reported [here](https://moodle.u-bordeaux.fr/plu
 
 
 ### Homework
-- Keep working on mini-project 1
+- Finish autocorelation and fft exercises  
+- Keep working on mini-project #1
 
 
 ## Lecture 5
 
 ### Content
-
 #### CM 
-Presentation  Project
+
+- Filters and spertal analysis
+- Presentation  final Projects
 
 #### TD 
 
-Hands-on help with miniproject #1 
+- Hands-on help with miniproject #1 
 
 ### Homework
 - Finish mini-project #1 and submit the completed notebook (deadline : 10-Oct-2024)
