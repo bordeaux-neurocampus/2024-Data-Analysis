@@ -27,7 +27,7 @@ Welcome to the course!
 - **Working session 3**: Oct 31 (am), Room 60 (Computer Lab)
 - **Working session 4**: Oct 31 (pm), Room 60 (Computer Lab)
 ---
-- **Defense**: Nov 19, Room 30: Detailed planning will be posted few days ahead.
+- **Defense**: Nov 19, 14h-18h, Room 30: Detailed planning will be posted few days ahead.
 
 Most location for the rooms are reported [here](https://moodle.u-bordeaux.fr/pluginfile.php/321857/mod_folder/content/0/Rooms-Master-Neurosciences%20Campus%20Carreire%202024.pdf?forcedownload=1) 
 
@@ -155,7 +155,7 @@ Most location for the rooms are reported [here](https://moodle.u-bordeaux.fr/plu
 starting on report (code and pdf , deadline 14-Nov-24) 
 and work on presentation.
 
-## Defense day (19-Nov-24)
+## Defense day (19-Nov-24, 14:00-18:00, Room 30)
 
-- Each group to present their work in front of a jury.  
-  10 minutes presentations and 15 minutes questions
+- Each group is to present their work in front of a jury.  
+  10 minutes for presentations and 15 minutes for questions
